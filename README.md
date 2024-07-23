@@ -4,7 +4,7 @@ This project demonstrates a dynamic 3D terrain visualization using [Three.js](ht
 
 ## Demo
 
-Check out the live demo [here](https://shekilrahman.github.io/terrainGenaratior/).
+Check out the live demo [here](https://shekilrahman.github.io/terrainGenerator/).
 
 ## Features
 
